@@ -10,7 +10,7 @@ In this template, we use SQLite to store data locally.
 ## Logic
   ### controller 
   ### database
-   Initilaize database and databasse table.
+   Initialize database and database table.
   ### service
   CRUD functions.
      
